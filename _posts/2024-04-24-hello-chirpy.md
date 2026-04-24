@@ -1,6 +1,6 @@
 ---
 title: "你好，Chirpy！我的第一篇示例博客"
-date: 2026-04-24 20:00:00 +0800
+date: 2024-04-24 20:00:00 +0800
 categories: [博客搭建]
 tags: [jekyll, chirpy, 示例]
 ---
